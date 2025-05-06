@@ -1,0 +1,35 @@
+Business Questionaries
+
+Q1: Find different payment methods, number of transactions,
+and quantity sold by payment method
+
+Q2.Determine the most common payment method used.
+
+Q3.Retrive the month with the highest sales
+
+Q4.Retrieve the total profit generated per city.
+
+Q5.Identify the product category with the highest demand.
+
+Q6.Find the total sales for each day of the week.
+
+Q7: Identify the highest-rated category in each branch
+Display the branch, category, and avg rating
+
+Q8: Identify the busiest day for each branch based 
+on the number of transactions
+
+Q9: Calculate the total quantity of items sold per payment method
+
+Q10: Determine the average, minimum, and maximum rating of categories for each city
+
+Q11.Total profit for each category.
+
+Q12. Determine the most common payment method for each branch
+
+Q13: Categorize sales into Morning, Afternoon, and Evening shifts and  Find out each of the shift 
+and number of invoices 
+
+Q.14.Determine the total profit generated on weekends vs. weekdays.
+
+Q15.Which day of the week generates the highest total sales?
